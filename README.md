@@ -4,8 +4,8 @@ I'm passionate about the intersection of software and the medical sector. I love
 
 ## Main Languages 🚀
 
-| Java | C#  | Python | PHP | JavaScript |
-| ---- | --- | ------ | --- | ---------- |
+| Java | C#  | Python | PHP | JavaScript | R |
+| ---- | --- | ------ | --- | ---------- |---|
 
 ## Data Science Libraries 📊
 
