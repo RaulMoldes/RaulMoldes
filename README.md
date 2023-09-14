@@ -1,16 +1,31 @@
-### Hi there 👋
+### Hi there, I'm a Biomedical Engineer Specializing in Data Science 👋
 
-<!--
-**RaulMoldes/RaulMoldes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about the intersection of software and the medical sector. I love to explore and implement various technologies, specially when applied to the medical field. My main area of interest is Data Science, Machine Learning and NLP, but I also enjoy collaborating in software development projects. Here are some of the main languages and frameworks I like to use:
 
-Here are some ideas to get you started:
+## Main Languages 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Java | C#  | Python | PHP | JavaScript |
+| ---- | --- | ------ | --- | ---------- |
+
+## Data Science Libraries 📊
+
+| Pandas | Numpy | Matplotlib | SKlearn |
+| ------ | ----- | ---------- | ------- |
+
+## Web Development Frameworks 💻
+
+| Django | AngularJS |
+| ------ | --------- |
+
+## Databases 🗄️
+
+| MongoDB | Postgres | MySQL | SQLite |
+| ------- | -------- | ----- | ------ |
+
+## Videogame Development 🎮
+
+| Unity |
+| ----- |
+
+Looking forward to collaborating and creating amazing projects on GitHub!
+
