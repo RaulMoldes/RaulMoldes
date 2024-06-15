@@ -1,6 +1,6 @@
 ### Hi there, I am an engineer Specializing in Data Science and Data Engineering 👋
 
-I'm passionate about the intersection of software and data. I love to explore and implement various technologies. My main area of interest is Data Science and Data Engineering but I also enjoy collaborating in software development projects. Currently, I am learning Spring Framework. Here are some of the main languages and frameworks I like to use:
+I'm passionate about the intersection of software and data. My main area of interest is Data Science and Data Engineering but I also enjoy collaborating in software development projects. Currently, I am learning Spring Framework. Here are some of the main languages and frameworks I like to use:
 
 ## Main Languages 🚀
 | Java | C# | Python | Scala | R | SQL |
