@@ -3,28 +3,32 @@
 I'm passionate about the intersection of software and data. My main area of interest is Data Science and Data Engineering but I also enjoy collaborating in software development projects. Currently, I am learning Spring Framework. Here are some of the main languages and frameworks I like to use:
 
 ## Main Languages 🚀
-| Java | C# | Python | Scala | R | SQL |
-| ---- | -- | ------ | ----- |---| --- |
+| Java | C# | Python | Scala | R | SQL | Cypher |
+| ---- | -- | ------ | ----- |---| --- | ------ |
 
 ## Data Science Libraries 📊
 | Pandas | Numpy | Matplotlib | Scikit-learn | TensorFlow | Spark MLlib |
 | ------ | ----- | ---------- | ------------ | ---------- | ----------- |
 
-## Data engineering tools
-| Apache Spark | Apache Flink | Hadoop | 
-| ------------ | ------------ | ------ |
+## Data Processing tools
+| Apache Spark | Apache Flink | Apache Kafka | Hadoop | Delta Lake |
+| ------------ | ------------ | ------------ | ------ | ---------- |
 
 ## Web Development Frameworks 💻
 | Django | Flask |Spring-boot|
 | ------ | ----- | --------- |
 
 ## Databases 🗄️
-| MongoDB | Postgres | MySQL | HBase | DynamoDB | SQL Server |
-| ------- | -------- | ----- | ----- | -------- | ---------- |
+| MongoDB | MySQL | HBase | ElasticSearch | Neo4j |
+| ------- | ----- | ----- | ------------- | ----- |
 
-## Cloud Computing 
-| Microsoft Azure |
-| --------------- |
+## Cloud Platforms
+| Microsoft Azure | Databricks |
+| --------------- | ---------- |
+
+## DevOPS
+| Docker | Kubernetes |
+| ------ | ---------- |
 
 ## Videogame Development 🎮
 | Unity |
