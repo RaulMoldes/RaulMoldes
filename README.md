@@ -1,38 +1,27 @@
-### Hi there, I am an engineer specializing in Data Science and Data Engineering 👋
+### Data Engineer
 
-I'm passionate about the intersection of software and data. My main area of interest is Data Engineering but I also enjoy collaborating in software development projects, specially if they involve the use of AI. Currently, I am learning Spring Framework. Here are some of the main languages, libraries and frameworks I like to use:
+Coffee, rap , hoodies and code.
 
 ## Main Languages 🚀
-| Java | C# | Python | Scala | R | SQL | Cypher |
-| ---- | -- | ------ | ----- |---| --- | ------ |
+| Java | Python | Scala | SQL |
+| ---- | ------ | ----- | --- |
 
-## Data Science Libraries 📊
-| Pandas | Numpy | Matplotlib | Scikit-learn | TensorFlow | Spark MLlib |
-| ------ | ----- | ---------- | ------------ | ---------- | ----------- |
 
-## Data Processing tools
-| Apache Spark | Apache Flink | Apache Kafka | Hadoop | Delta Lake |
-| ------------ | ------------ | ------------ | ------ | ---------- |
 
-## Web Development Frameworks 💻
-| Django | Flask |Spring-boot|
-| ------ | ----- | --------- |
+## Big Data frameworks & tools
+| Apache Spark | Apache Flink | Apache Kafka | Hadoop |
+| ------------ | ------------ | ------------ | ------ |
+
 
 ## Databases 🗄️
-| MongoDB | MySQL | HBase | ElasticSearch | Neo4j |
-| ------- | ----- | ----- | ------------- | ----- |
+| MongoDB | PostgresSQL | SQLServer | ElasticSearch | Neo4j |
+| ------- | ----------- | --------- | ------------- | ----- |
+
 
 ## Cloud Platforms
-| Microsoft Azure | Databricks |
-| --------------- | ---------- |
+| Microsoft Azure | Amazon Web Services|
+| --------------- | ------------------ |
 
 ## DevOPS
 | Docker | Kubernetes |
 | ------ | ---------- |
-
-## Videogame Development 🎮
-| Unity |
-| ----- |
-
-Looking forward to collaborating and creating amazing projects on GitHub!
-
