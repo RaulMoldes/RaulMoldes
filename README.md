@@ -3,8 +3,8 @@
 Coffee, rap , hoodies and code.
 
 ## Main Languages 🚀
-| Java | Python | Scala | SQL |
-| ---- | ------ | ----- | --- |
+| Java | Python | SQL | C# | Rust |
+| ---- | ------ | --- | -- | ---- |
 
 
 
