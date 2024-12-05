@@ -2,7 +2,9 @@
 
 Never bother children when they are skateboarding 🛹
 
-I am a **Data Engineer** passionate about creating efficient and scalable solutions for large volumes of data. I enjoy optimizing processes and automating workflows. I'm always on the lookout for new tools. I also enjoy low level programming and systems engineering. Checkout my latest **HKFS** project! ;)
+I am a **Data Engineer** passionate about creating efficient and scalable solutions for large volumes of data. I enjoy optimizing processes and automating workflows.
+
+I also enjoy low level programming and systems engineering. Checkout my latest **HKFS** project! ;)
 
 ## 🌐 **Main Languages**:
 | Java | Python | SQL | C# | Rust |
