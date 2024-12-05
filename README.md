@@ -1,8 +1,8 @@
 ### Data Engineer
 
-Coffee, rap , hoodies and code.
+Never bother children when they are skateboarding
 
-## Main Languages 🚀
+## Main Languages 
 | Java | Python | SQL | C# | Rust |
 | ---- | ------ | --- | -- | ---- |
 
@@ -13,7 +13,7 @@ Coffee, rap , hoodies and code.
 | ------------ | ------------ | ------------ | ------ |
 
 
-## Databases 🗄️
+## Databases 
 | MongoDB | PostgresSQL | SQLServer | ElasticSearch | Neo4j |
 | ------- | ----------- | --------- | ------------- | ----- |
 
