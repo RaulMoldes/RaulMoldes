@@ -4,7 +4,7 @@ Never bother children when they are skateboarding 🛹
 
 I am a **Data Engineer** passionate about programming challenging projects. 
 
-My approach goes from process automation and to web scraping to reverse engineering a full distributed systems from scratch.
+My approach goes from process automation and web scraping to reverse engineering a full distributed systems from scratch.
 
 ## 🌐 **Main Languages**:
 | Java | Python | SQL | C# | Rust |
