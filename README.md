@@ -7,8 +7,8 @@ I am a **Data Engineer** passionate about programming challenging projects.
 My approach goes from process automation and web scraping to reverse engineering a full distributed systems from scratch.
 
 ## 🌐 **Main Languages**:
-| Java | Python | SQL | C# | Rust |
-| ---- | ------ | --- | -- | ---- |
+| Java | Python | SQL | Rust |
+| ---- | ------ | --- | ---- |
 
 ## 🛠️ **Big Data Frameworks & Tools**:
 | Apache Spark | Apache Flink | Apache Kafka | Hadoop |
