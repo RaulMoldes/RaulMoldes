@@ -11,12 +11,12 @@ My approach goes from process automation and web scraping to reverse engineering
 | ---- | ------ | --- | ---- |
 
 ## 🛠️ **Big Data Frameworks & Tools**:
-| Apache Spark | Apache Flink | Apache Kafka | Hadoop |
-| ------------ | ------------ | ------------ | ------ |
+| Apache Spark | Apache Kafka | Hadoop |
+| ------------ | ------------ | ------ |
 
 ## 🗃️ **Databases**:
-| MongoDB | PostgreSQL | SQLServer | ElasticSearch | Neo4j |
-| ------- | ---------- | --------- | ------------- | ----- |
+| MongoDB | PostgreSQL |
+| ------- | ---------- |
 
 ## ☁️ **Cloud Platforms**:
 | Microsoft Azure | Amazon Web Services |
@@ -25,3 +25,7 @@ My approach goes from process automation and web scraping to reverse engineering
 ## ⚙️ **DevOps**:
 | Docker | Kubernetes |
 | ------ | ---------- |
+
+## IaC
+
+| Terraform |
