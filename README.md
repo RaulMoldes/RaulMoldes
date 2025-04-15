@@ -1,1 +1,3 @@
-Soy un ingeniero de datos apasionado por el desarrollo de software y la programación de sistemas. Estudié inge niñería biomédica y ahora me dedico a construir sistemas de datos resilientes sin nunca dejar de aprender
+Soy un ingeniero de datos apasionado por el desarrollo de software y la programación de sistemas. Estudié ingeniería biomédica y ahora me motivan diferentes proyectos relacionados con el ámbito de la ingeniería del software.
+
+Mi área de interés es muy amplia, abarcando desde la programación de sistemas a bajo nivel hasta el desarrollo de arquitecturas de datos en la nube.
