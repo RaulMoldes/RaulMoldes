@@ -1,32 +1,9 @@
-### 🚀 Data Engineer
+Soy un ingeniero de datos apasionado por la programación de sistemas. Estudié inge niñerías biomédica y ahora me dedico a construir sistemas de datos resilientes sin nunca dejar de aprender.
 
-Never bother children when they are skateboarding 🛹
+## **Tech Stack**
 
-I am a **Data Engineer** passionate about programming challenging projects. 
-
-My approach goes from process automation and web scraping to reverse engineering a full distributed systems from scratch.
-
-## 🌐 **Main Languages**:
-| Java | Python | SQL | Rust |
-| ---- | ------ | --- | ---- |
-
-## 🛠️ **Big Data Frameworks & Tools**:
-| Apache Spark | Apache Kafka | Hadoop |
-| ------------ | ------------ | ------ |
-
-## 🗃️ **Databases**:
-| MongoDB | PostgreSQL |
-| ------- | ---------- |
-
-## ☁️ **Cloud Platforms**:
-| Microsoft Azure | Amazon Web Services |
-| --------------- | ------------------ |
-
-## ⚙️ **DevOps**:
-| Docker | Kubernetes |
-| ------ | ---------- |
-
-## IaC
-
-| Terraform |
-| --------- |
+| **Languages** | **Big Data**         | **Databases**       | **Cloud Platforms**         | **DevOps**         | **IaC**      |
+|---------------|----------------------|----------------------|-----------------------------|--------------------|--------------|
+| Python        | Apache Kafka, Hadoop | MongoDB, PostgreSQL | Microsoft Azure, AWS       | Docker, Kubernetes | Terraform    |
+| SQL           |                      |                      |                             |                    |              |
+| Rust          |                      |                      |                             |                    |              |
