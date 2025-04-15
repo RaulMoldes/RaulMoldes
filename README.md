@@ -1,1 +1,1 @@
-Soy un ingeniero de datos apasionado por la programación de sistemas. Estudié inge niñería biomédica y ahora me dedico a construir sistemas de datos resilientes sin nunca dejar de aprender
+Soy un ingeniero de datos apasionado por el desarrollo de software y la programación de sistemas. Estudié inge niñería biomédica y ahora me dedico a construir sistemas de datos resilientes sin nunca dejar de aprender
