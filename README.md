@@ -1,3 +1,4 @@
-Soy un ingeniero de datos apasionado por el desarrollo de software y la programación de sistemas. Estudié ingeniería biomédica y ahora me motivan diferentes proyectos relacionados con el ámbito de la ingeniería del software.
+I’m a data engineer passionate about software development and systems programming. I studied biomedical engineering, and now I’m motivated by various projects related to the field of software engineering.
 
-Mi área de interés es muy amplia, abarcando desde la programación de sistemas a bajo nivel hasta el desarrollo de arquitecturas de datos en la nube.
+My area of interest is quite broad, but I’m especially interested in systems programming, databases, and the development of machine learning algorithms.
+
