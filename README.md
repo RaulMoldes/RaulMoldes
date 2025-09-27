@@ -1,4 +1,3 @@
-I’m a data engineer passionate about software development and systems programming. I studied biomedical engineering, and now I’m motivated by various projects related to the field of software engineering.
+Biomedical and and machine learning engineer.
 
-My area of interest is quite broad, but I’m especially interested in systems programming, databases, and the development of machine learning algorithms.
-
+Passionate about problem solving, specially on systems engineering, databases, heterogeneous computing and anything related with software, computer science and mathemathics.
